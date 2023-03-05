@@ -1,11 +1,10 @@
 # STM32cubeIDE Stuff
 *settings*/
-Debug/
-Inc
-Startup/
-*ld
-*launch
-*project
+*/Debug/
+*/Startup/
+*/*project
+*/*.ld
+*/*.launch
 *metadata*/
 
 # Prerequisites
